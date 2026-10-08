@@ -1,0 +1,20 @@
+# Core (torch is installed separately by install.py so you get the right CPU/GPU build)
+gradio>=5.0,<6
+numpy
+scipy
+scikit-image
+opencv-python-headless
+pillow
+soundfile
+imageio-ffmpeg
+psutil
+huggingface_hub
+transformers>=4.44
+diffusers>=0.30
+accelerate
+peft
+safetensors
+sentencepiece
+protobuf
+# Voice
+kokoro>=0.9.4

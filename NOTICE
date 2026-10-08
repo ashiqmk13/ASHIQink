@@ -1,0 +1,7 @@
+InkReel
+=======
+The hand / pen images in assets/hands/ (and the pen-tip coordinates in hands.json) come from
+"Inkplainer" (https://github.com/NadirWeb-App/Inkplainer-OS), licensed under the Apache License 2.0
+(see assets/hands/LICENSE-Inkplainer-Apache-2.0.txt). They were downscaled and re-encoded.
+All Python code in this project is new and was written from scratch; only the *idea* of the
+animation styles (outline / scanner / chunk-jump) was inspired by Inkplainer.

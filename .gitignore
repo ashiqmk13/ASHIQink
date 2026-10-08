@@ -1,0 +1,22 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.venv*/
+
+# InkReel project outputs & downloaded models
+data/
+projects/
+*.mp4
+*.wav
+*.avi
+*.zip
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,56 @@
+{
+ "hand1": {
+  "name": "Hand - pen (light skin)",
+  "file": "hand1.png",
+  "tip": [
+   0.5300925925925926,
+   0.0
+  ],
+  "default_scale": 0.5
+ },
+ "hand2": {
+  "name": "Hand - marker (medium skin)",
+  "file": "hand2.png",
+  "tip": [
+   0.38425925925925924,
+   0.0
+  ],
+  "default_scale": 0.5
+ },
+ "hand3": {
+  "name": "Hand - marker (dark skin)",
+  "file": "hand3.png",
+  "tip": [
+   0.2708333333333333,
+   0.0
+  ],
+  "default_scale": 0.5
+ },
+ "hand4": {
+  "name": "Pen only (no hand)",
+  "file": "hand4.png",
+  "tip": [
+   0.1875,
+   0.8177083333333334
+  ],
+  "default_scale": 0.42
+ },
+ "hand5": {
+  "name": "Cartoon hand",
+  "file": "hand5.png",
+  "tip": [
+   0.0,
+   0.153125
+  ],
+  "default_scale": 0.4
+ },
+ "hand6": {
+  "name": "Pixel-art hand",
+  "file": "hand6.png",
+  "tip": [
+   0.10555555555555556,
+   0.29375
+  ],
+  "default_scale": 0.4
+ }
+}
